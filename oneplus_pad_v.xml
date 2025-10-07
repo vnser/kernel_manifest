@@ -6,7 +6,7 @@
   <project remote="origin" name="android_kernel_oneplus_mt6897" path="kernel_platform/common" revision="oneplus/mt6897_v_15.0.0_oneplus_pad">
     <linkfile dest="kernel_platform/.source_date_epoch_dir" src="."/>
   </project>
-  <project remote="origin" name="android_kernel_oneplus_sm7675" path="kernel_platform/msm-kernel" revision="oneplus/mt6897_v_15.0.0_oneplus_pad">
+  <project remote="origin" name="android_kernel_oneplus_mt6897" path="kernel_platform/msm-kernel" revision="oneplus/mt6897_v_15.0.0_oneplus_pad">
     <linkfile dest="kernel_platform/WORKSPACE" src="bazel.WORKSPACE"/>
     <linkfile dest="kernel_platform/build_with_bazel.py" src="build_with_bazel.py"/>
   </project>
